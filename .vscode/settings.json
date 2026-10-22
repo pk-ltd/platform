@@ -1,0 +1,12 @@
+{
+  "yaml.schemas": {
+    "kubernetes": "kubernetes/**/*.yaml"
+  },
+  "files.associations": {
+    "infrastructure/ansible/**/*.yml": "ansible",
+    "infrastructure/ansible/**/*.yaml": "ansible"
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.tabSize": 2
+}
